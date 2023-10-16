@@ -16,7 +16,8 @@ author_profile: true
 {% endfor %}
 
 - ChopTags: An Accurate and Low-cost Interface to Identify User/Item Interac-
-tions, on **IEEE SECON** virtual conference, Sept. 2022
+tions 
+    -  **IEEE SECON** virtual conference, Sept. 2022
 
 - Enabling identity-aware tracking by vision-RFID fusion, on **ACM SenSys** conference,
 Yokohama, Japan, Nov. 2020
