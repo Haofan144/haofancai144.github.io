@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m an Assistant Professor of [Electrical & Computer Engineering](https://ee.hawaii.edu/faculty/profile?usr=124) at [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/). My research interests span the areas of wireless networking, Internet-of-Things (IoT), human-computer interaction (HCI) and network security. I received my Ph.D. in Computer Science & Engineering at [University of California Santa Cruz](https://engineering.ucsc.edu/departments/computer-science-and-engineering/) in 2023, under the guidence of Prof. [Chen Qian](https://users.soe.ucsc.edu/~qian/).
+I’m an Assistant Professor of [Electrical & Computer Engineering] at [University of Hawaiʻi at Mānoa](https://ee.hawaii.edu/faculty/profile?usr=124). My research interests span the areas of **wireless networking**, **Internet-of-Things (IoT)**, **human-computer interaction (HCI) ** and **network security**. I received my Ph.D. in Computer Science & Engineering at [University of California Santa Cruz]in 2023, under the guidence of Prof. [Chen Qian](https://users.soe.ucsc.edu/~qian/).
 
-I’m currently looking for self-motivated students (Ph.D. programs) who are interested in networks and security reseasrch. If you are interested, please reach out to me [haofanc@hawaii.edu](haofanc@hawaii.edu), providing your CV and any supplementary material that will help me to know your academic background.
+I’m currently looking for self-motivated students (Ph.D. program) who are interested in networks and HCI reseasrch. If you are interested, please reach out to me [haofanc@hawaii.edu](haofanc@hawaii.edu), providing your CV and any supplementary materials that will help me to know your academic background.
 
 Education
 ======
