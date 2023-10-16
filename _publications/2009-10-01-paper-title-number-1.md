@@ -1,3 +1,7 @@
+---
+collection: publications
+---
+
 - **[SECON]** **Haofan Cai**, Ge Wang, Josue Leyva, Ian Pham, Jinsong Han, Shigang Chen, Chen Qian, [ChopTags: An Accurate and Low-cost Interface to Identify User/Item Interactions](https://ieeexplore.ieee.org/document/9918168), in Proceedings of IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022.
 
 - **[TON]** Ge Wang, Xiaofeng Shi, **Haofan Cai**, Chen Qian, Han Ding, Wei Xi, Kun Zhao, Jizhong Zhao, Jinsong Han, [A Generalized Method to Combat Multipaths for RFID Sensing](https://ieeexplore.ieee.org/document/9837885), in Proceedings of IEEE/ACM Transactions on Networking (TON), 2022.
