@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "[EE 361:Digital Systems and Computer Design](https://manoa.hawaii.edu/catalog/courses/ee-361-digital-systems-and-computer-design-3/)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: Fall 2023"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+EE 361 is a undergraduate-level course on processor design, control design, memory organization, system organization.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
