@@ -15,16 +15,8 @@ Journal Reviewer
 * IEEE/ACM Transactions on Networking (ToN)
 * Computer Networks
 
-Conference Reviewer
+TPC
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* ICCCN 2024 (Poster Chair)
   
 
