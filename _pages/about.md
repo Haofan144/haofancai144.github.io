@@ -12,7 +12,7 @@ I’m an assistant professor of Electrical & Computer Engineering at [University
 
 I’m currently looking for self-motivated students (Ph.D. program) who are interested in networks and HCI research. If you are interested, please reach out to me [haofanc@hawaii.edu](haofanc@hawaii.edu), providing your CV and any supplementary materials that can help me to know your academic background.
 
-<span style="color:blue">some text</span>
+<span style="color:red">some **This is Red Bold.** text</span>
 
 Download [CV](https://drive.google.com/file/d/1HOm3FWdIeZo6Rx1xKwm5mQU1afx7l5HA/view?usp=sharing)
 
