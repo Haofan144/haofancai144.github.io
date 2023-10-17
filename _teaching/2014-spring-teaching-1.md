@@ -1,5 +1,3 @@
-UHM
----
 ---
 title: "[EE 361]: Digital Systems and Computer Design(https://manoa.hawaii.edu/catalog/courses/ee-361-digital-systems-and-computer-design-3/)"
 collection: teaching
