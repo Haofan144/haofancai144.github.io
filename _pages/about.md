@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aloha!"
+title: "Aloha!:palm_tree:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
