@@ -17,18 +17,21 @@ author_profile: true
 
 - ChopTags: An Accurate and Low-cost Interface to Identify User/Item Interac-
 tions 
-    -  **IEEE SECON** virtual conference, Sept. 2022
+    - **IEEE SECON** virtual conference, Sept. 2022
 
-- Enabling identity-aware tracking by vision-RFID fusion, on **ACM SenSys** conference,
-Yokohama, Japan, Nov. 2020
+- Enabling identity-aware tracking by vision-RFID fusion
+    - **ACM SenSys** virtual conference, Nov. 2020
 
 - When Tags ’Read’ Each Other: Enabling Low-cost and Convenient Tag Mutual
-Identification, on **IEEE ICNP** conference, Chicago, USA, Oct. 2019
+Identification
+    - **IEEE ICNP** conference, Chicago, USA, Oct. 2019
 
 - A (Near) Zero-cost and Universal Method to Combat Multipaths for RFID Sens-
-ing, on **IEEE ICNP** conference, Chicago, USA, Oct. 2019
+ing
+    - **IEEE ICNP** conference, Chicago, USA, Oct. 2019
 
-- Multi-seller Combinatorial Spectrum Auction with Reserve Prices, on **IEEE ICCS**
-conference, Shenzhen, China, Dec. 2016
+- Multi-seller Combinatorial Spectrum Auction with Reserve Prices
+    - **IEEE ICCS** conference, Shenzhen, China, Dec. 2016
 
-- Spectrum Matching, on **IEEE ICDCS** conference, Nara, Japan, Jun. 2016
+- Spectrum Matching
+    - **IEEE ICDCS** conference, Nara, Japan, Jun. 2016
