@@ -1,5 +1,5 @@
 ---
-title: "[EE 361]: Digital Systems and Computer Design(https://manoa.hawaii.edu/catalog/courses/ee-361-digital-systems-and-computer-design-3/)"
+title: "[EE 361: Digital Systems and Computer Design](https://manoa.hawaii.edu/catalog/courses/ee-361-digital-systems-and-computer-design-3/)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
